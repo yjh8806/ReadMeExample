@@ -129,5 +129,5 @@ YY/MM/DD~YY/MM/DD
 ### YYYY/MM/DD: EncryptedSharedPreferences 라이브러리 이슈
 이슈 내용
 - 문제 기기: Galaxy23
-- 이슈 상황: 앱 진입 시, 일부 기기에서 앱 크래시 발생. Issue Tracker [(Issue)](https://issuetracker.google.com/issues/164901843?pli=1) 를 찾아보니 수년전부터 있어온 고질적인 문제인 것으로 확인 
+- 이슈 상황: 앱 진입 시, 일부 기기에서 앱 크래시 발생. Issue Tracker [(Issue)] 를 찾아보니 수년전부터 있어온 고질적인 문제인 것으로 확인 
 - 대응: EncryptedSharedPreferences 사용 시, 크래시가 나는 경우 새로 생성하는 로직을 추가함
